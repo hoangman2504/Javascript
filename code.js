@@ -1,4 +1,4 @@
-//#7 Tất Tần Tật Các Kiểu Dữ Liệu Cần Biết của JS
+//!#7 Tất Tần Tật Các Kiểu Dữ Liệu Cần Biết của JS
 console.log(`Hoc JS cung hoi dan IT ''"""`); 
 // dòng lệnh này giúp thêm 1 đoạn vb có dấu '',"" bên trong 1 đoạn vb mà kh sợ bị lỗi bởi nó dc bao bọc bởi dấu ``
 
