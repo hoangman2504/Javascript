@@ -2,7 +2,7 @@
 let a = 10, b = '10';
 
 console.log('Check ===', a === b); //log1
-//ở log1 khi so sánh biến a,b chúng ta nên dùng === để so sánh 1 cách đúng nhất, nó sẽ so sánh kiểu type
+//ở log1 khi so sánh biến a,b chúng ta nên dùng === để so sánh 1 cách đúng nhất, nó sẽ so sánh data type
 // và so sánh giá trị của 2 biến a,b 1 cách chính xác hơn
 
 //Empty, Null, Undefied
