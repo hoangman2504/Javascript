@@ -9,3 +9,5 @@ console.log('>>> Check abc:','a = ', a, 'b = ', b, 'c = ', c);
 console.log(typeof a);
 // muốn biết kiểu dử liệu của biến a là gì thù dùng typeof để biết dc kiểu dữ liệu của nó
 
+
+
