@@ -1,4 +1,4 @@
-//!#8
+//!#8 Kiểu dữ liệu string
 //Lỗi NaN xảy ra khi bạn đang cố gắng in ra 1 biến nhưng biến đó kh phải là number
 let d = 'Toi la string - chuoi';
 console.log(d)

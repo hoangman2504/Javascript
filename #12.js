@@ -1,3 +1,4 @@
+//!12 Kiểu dữ liệu object trong thế giới data
 let a = {
     name: 'man',
     addres: 'Dai an',
