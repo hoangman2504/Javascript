@@ -57,3 +57,28 @@
 
 //#21 RETURN - ĐI ĐI ĐỂ TRỞ VỀ với JS
 //tạo 1 return
+
+//#22 Arrow Functions - Đi Săn Với Js
+//tạo 1 arrow func
+
+//#23 Function vs Method - Phân Biệt Hàm và Phương Thức
+//tạo 1 function
+
+//tạo 1 method
+
+//#24 Callbacks hay Call Me Later - Chạy Theo Thứ Tự
+
+//callback function
+
+
+  //set Timeout
+
+
+  //set Interval
+
+
+  //clear Time out
+
+
+  //clear setInterval
+
