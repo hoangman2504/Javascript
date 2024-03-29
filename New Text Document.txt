@@ -1,0 +1,59 @@
+//#8 Tạo 2 vd về number + string và string + number
+
+//#10 Tạo so sánh === giữa 2 giá trị number, string và in ra log
+
+
+
+
+//#11 Tạo 1 nối string đơn giản với dấu ``
+
+// "Fifteen is 15 and
+// not 20."
+//#12 Tạo 1 object và thay đổi giá trị của nó vs 2 cách,
+
+
+//và lấy giá trị của object từ key của nó vs 2 cách
+
+
+//#13 Tạo 1 array và in ra dữ liệu của arr ra log
+
+
+//sau đó lấy giá trị của 2 arr đầu tiên và in ra log
+
+//cuối cùng tạo 1 arr mới cho bên trong arr mới là 1 object và sau đó in object ra log
+
+
+//#14 Tạo 1 bài so sánh string vs number bằng dấu ===
+//Empty, Null, Undefied
+
+//#15 Tạo 1 vòng lặp for sau đó in các phần tử ra từ arr
+
+
+//#16 While/Do While Loops - Vòng Lặp While với JS
+//tạo 1 vòng lặp While
+
+//tạo 1 vòng lặp while
+
+//#17 If/Else statement. Break & Continue
+//Tạo if, else với 2 đk if, 1 đk else
+
+//Tạo 1 vd về break;
+
+//Tạo 1 vd về continued
+
+//#18 Switch case cho 1 ví dụ
+
+
+//#19 Variables & Block Scope - Phạm Vi Sử Dụng Biến Số
+//cho 1 ví dụ về variabel scope (cục bộ)
+
+
+//cho 1 ví dụ về variabel global (toàn cục)
+
+//#20 Declare Functions - Định Nghĩa Hàm Siêu Dễ với JS
+//tạo 1 function tính tổng
+
+
+
+//#21 RETURN - ĐI ĐI ĐỂ TRỞ VỀ với JS
+//tạo 1 return
