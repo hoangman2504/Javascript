@@ -28,7 +28,7 @@ console.log(filterB);
 //ở đoạn mã này lệnh filter sẽ lấy các object có age = 25, nếu trường hợp filter kh có object nào
 //là age === 25 thì sẽ in ra là 1 arr rỗng
 
-//fill
+//find
 let arrC = [
     {name: 'ace', age: 27},
     {name: 'sabo', age: 25},
